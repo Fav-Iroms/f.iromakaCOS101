@@ -1,0 +1,1 @@
+C:\Users\Lenovo\OneDrive\Documents\mr\ chudi's\ space\f.iromakaCOS101\week-2\project3\target\debug\project3.exe: C:\Users\Lenovo\OneDrive\Documents\mr\ chudi's\ space\f.iromakaCOS101\week-2\project3\src\main.rs
