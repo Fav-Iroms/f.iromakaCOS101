@@ -1,0 +1,1 @@
+C:\Users\Lenovo\OneDrive\Documents\mr\ chudi's\ space\f.iromakaCOS101\COS101-FRESH\f.iromakaCOS101\week-6\practice_11\target\debug\practice_11.exe: C:\Users\Lenovo\OneDrive\Documents\mr\ chudi's\ space\f.iromakaCOS101\COS101-FRESH\f.iromakaCOS101\week-6\practice_11\src\main.rs
