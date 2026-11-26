@@ -1,0 +1,1 @@
+C:\Users\Lenovo\OneDrive\Documents\mr\ chudi's\ space\f.iromakaCOS101\COS101-FRESH\f.iromakaCOS101\week-14\globacom_project\target\debug\globacom_project.exe: C:\Users\Lenovo\OneDrive\Documents\mr\ chudi's\ space\f.iromakaCOS101\COS101-FRESH\f.iromakaCOS101\week-14\globacom_project\src\main.rs
